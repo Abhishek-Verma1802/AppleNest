@@ -2,6 +2,11 @@
 
 ## Live demo: [appleNest](https://ornate-genie-fbb10b.netlify.app/)
 
+## Screenshots:
+![image](https://github.com/user-attachments/assets/c46b72d8-5ce5-4619-88f4-882e7b87a09a)
+![image](https://github.com/user-attachments/assets/ace85a90-9150-45d2-8e3c-3494291793d0)
+![image](https://github.com/user-attachments/assets/b106c441-fa05-45cb-80e8-6288a0520612)
+
 ## Project Overview
 AppleNest is a personal development project aimed at enhancing my skills in new tools and technologies. This project is a clone of the Apple mobile homepage, built to showcase advanced frontend development techniques and responsive design. It features interactive UI components, smooth animations, and a 3D mobile rotation effect.
 
