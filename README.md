@@ -1,8 +1,44 @@
-# React + Vite
+# AppleNest - Apple Mobile Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live demo: [appleNest](https://ornate-genie-fbb10b.netlify.app/)
 
-Currently, two official plugins are available:
+## Project Overview
+AppleNest is a personal development project aimed at enhancing my skills in new tools and technologies. This project is a clone of the Apple mobile homepage, built to showcase advanced frontend development techniques and responsive design. It features interactive UI components, smooth animations, and a 3D mobile rotation effect.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Key Highlights:**
+- Responsive mobile-first design.
+- Scroll effects for smooth user experience.
+- Interactive "Take a Close Look" section with a rotating mobile phone.
+- Color-changing mobile back to help users choose the best color variant.
+
+## Tech Stack
+This project utilizes modern tools and technologies for creating a seamless and interactive experience:
+
+- **React**: For building the user interface.
+- **Three.js**: For rendering and rotating the 3D model of the mobile phone.
+- **GSAP**: For creating smooth animations and scroll effects.
+- **Tailwind CSS**: For styling the UI components.
+- **Vite**: For fast and efficient build and development environment.
+
+## Features
+- **Responsive Mobile Design**: The project adapts well to all screen sizes, especially mobile.
+- **Scroll Effects**: Adds smooth scrolling effects for a better user experience.
+- **3D Mobile Rotation**: In the "Take a Close Look" section, the mobile rotates to give users an interactive view.
+- **Color Selection**: Users can change the mobile's color to see which variant looks best.
+
+## Setup Instructions
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Abhishek-Verma1802/appleNest.git
+   cd appleNest
+    ```
+2. Install dependencies:
+ ```bash
+    npm install
+```
+3. Run the development server:
+  ```bash
+    npm run dev
+```
